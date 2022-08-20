@@ -6,7 +6,8 @@ public class Lab9Class {
 	/* Computer Science 1 Spring. 7.9 Dual Arrays.
 	 *This program calculates the bill of restaurant customers based on their three picks from the restaurant menu.
 	 *The program asks the user for their group size and then asks the user to fill out each customers data and their food requests.
-	 *The program then outputs each customer�s individual bill and then grand total with applicable discounts applied.*/
+	 *The program then outputs each customer�s individual bill and then grand total with applicable discounts applied.
+	 202*/
 	public static void main(String[] args) {
 		String[] itemname = {"Soup", "Wings", "Burger","Chicken Sandwich","Fries","Pie","Ice Cream","Soft Drink","Coffee"};
 		double[] price= {2.50,0.15,4.95,5.95,1.99,2.95,2.99,1.50,1.00};
